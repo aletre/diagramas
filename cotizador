@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-16T22:02:09.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="voLDntELthi3ccpojZbY" version="12.7.0" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-02-16T22:53:04.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="5G7NjEboqdIt9B-fcJZi" version="12.7.0" type="github" pages="2">
   <diagram id="yamxepP_VPxzLzea_HYe" name="Page-1">
     <mxGraphModel dx="865" dy="1626" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -606,7 +606,7 @@
         <mxCell id="Efrs2NQmivyKIOG2tBWB-74" value="?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="684" y="1666.3200000000002" width="26" height="26.36" as="geometry"/>
         </mxCell>
-        <mxCell id="Efrs2NQmivyKIOG2tBWB-75" value="Cantidad Productos, Distribución (3x3), Tamaño (cuello), CFM (indivudual), Tiro (individual), NC (individual), Pérdida todal (valor por # elementos)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="Efrs2NQmivyKIOG2tBWB-75" value="Cantidad Productos, Distribución (3x3), Tamaño (cuello), CFM (indivudual), Tiro (individual), NC (individual), Pérdida todal (valor por # elementos)&lt;br&gt;&lt;br&gt;Retorno, hay una tabla que dependiendo de la aplicación indica cuál es la velocidad recomendada de retorno, y que dada esa, contra otra tabla se puede determinar el caudal a recuperar.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="58" y="2880" width="639" height="148.64" as="geometry"/>
         </mxCell>
       </root>
