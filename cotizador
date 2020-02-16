@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-16T20:57:00.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="A6_xRtpdSIFEwnKTm0N_" version="12.7.0" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-02-16T21:13:44.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="xUHKa-WKXIBNxhJLq4YX" version="12.7.0" type="github" pages="2">
   <diagram id="yamxepP_VPxzLzea_HYe" name="Page-1">
     <mxGraphModel dx="1483" dy="1952" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,9 +170,6 @@
         </mxCell>
         <mxCell id="V_1QUTGKGmPcVNd4xl4Z-64" value="Y = L + ?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="338.25" y="1850" width="76.5" height="26.36" as="geometry"/>
-        </mxCell>
-        <mxCell id="V_1QUTGKGmPcVNd4xl4Z-66" value="&lt;span style=&quot;font-size: 17px&quot;&gt;Regillas de pared&lt;br&gt;&lt;b&gt;&amp;gt; Rejilla de una vía.&lt;/b&gt;&lt;/span&gt;&lt;br style=&quot;font-size: 17px&quot;&gt;- El área que puede cubrir es de X x Y.&lt;br&gt;- El tamaño de la rejilla es clave para saber cuánto área cubriría.&lt;br&gt;&lt;br&gt;- ¿Cuál sería el área de influencia de estas de pared, se puede asumir que son rectangulares?&lt;br&gt;- ¿Cuando se usan estas rejillas, también se restan 4 del área total?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="446" y="1850" width="301.25" height="200" as="geometry"/>
         </mxCell>
         <mxCell id="V_1QUTGKGmPcVNd4xl4Z-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#CCCCCC;" parent="1" vertex="1">
           <mxGeometry x="77.25" y="1911.5" width="44.5" height="83" as="geometry"/>
@@ -495,12 +492,6 @@
         <mxCell id="Efrs2NQmivyKIOG2tBWB-41" value="2x" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="604.6" y="1348.21" width="26" height="26.36" as="geometry"/>
         </mxCell>
-        <mxCell id="Efrs2NQmivyKIOG2tBWB-43" value="" style="endArrow=classic;html=1;fontColor=#FF3333;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="446" y="1089" as="sourcePoint"/>
-            <mxPoint x="496" y="1039" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Efrs2NQmivyKIOG2tBWB-44" value="" style="endArrow=classic;html=1;fontColor=#FF3333;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.212;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Efrs2NQmivyKIOG2tBWB-36" target="Efrs2NQmivyKIOG2tBWB-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="732.1" y="1260.21" as="sourcePoint"/>
@@ -611,6 +602,9 @@
             <mxPoint x="129" y="2200" as="sourcePoint"/>
             <mxPoint x="179" y="2150" as="targetPoint"/>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Efrs2NQmivyKIOG2tBWB-74" value="?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="684" y="1666.3200000000002" width="26" height="26.36" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
