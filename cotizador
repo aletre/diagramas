@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-16T23:14:58.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="OWvuTq2pU9D4nGVcvWRG" version="12.7.0" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-03-02T23:44:26.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="JPeabFMjHcIPK7cB_ZZv" version="12.7.0" type="github" pages="2">
   <diagram id="yamxepP_VPxzLzea_HYe" name="Page-1">
-    <mxGraphModel dx="1542" dy="1547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1691" dy="1652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -313,7 +313,7 @@
         <mxCell id="Efrs2NQmivyKIOG2tBWB-3" value="Seleccione" style="strokeWidth=1;shadow=0;dashed=0;align=center;shape=mxgraph.mockup.forms.comboBox;strokeColor=#999999;fillColor=#ddeeff;align=left;fillColor2=#aaddff;mainText=;fontColor=#C4C4C4;fontSize=15;spacingLeft=3;fontStyle=0;spacing=3;" vertex="1" parent="Efrs2NQmivyKIOG2tBWB-1">
           <mxGeometry x="0.006107761135925495" y="25.162671820503576" width="156.99389223886413" height="26.357328179496438" as="geometry"/>
         </mxCell>
-        <mxCell id="Efrs2NQmivyKIOG2tBWB-5" value="adpi:&lt;br&gt;air distibution performance index. por defecto 80%.&lt;br&gt;&lt;br&gt;¿Este es el que acá se llama precisión?&lt;br&gt;&lt;br&gt;Se pone un valor determinado o se dice si se debe o no usar.&lt;br&gt;&lt;br&gt;Suministro Techo&lt;br&gt;Suministro Pared&lt;br&gt;Retorno&lt;br&gt;&lt;br&gt;&amp;gt; Nombre espacio, cantidad." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#666666;" vertex="1" parent="1">
+        <mxCell id="Efrs2NQmivyKIOG2tBWB-5" value="adpi:&lt;br&gt;air distibution performance index. por defecto 80%.&lt;br&gt;&lt;br&gt;&amp;gt;&amp;gt; Se multiplica por 0.75 para calcular&lt;br&gt;&lt;br&gt;¿Este es el que acá se llama precisión?&lt;br&gt;&lt;br&gt;Se pone un valor determinado o se dice si se debe o no usar.&lt;br&gt;&lt;br&gt;Suministro Techo&lt;br&gt;Suministro Pared&lt;br&gt;Retorno&lt;br&gt;&lt;br&gt;&amp;gt; Nombre espacio, cantidad." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="557" y="-705" width="224" height="353" as="geometry"/>
         </mxCell>
         <mxCell id="Efrs2NQmivyKIOG2tBWB-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#C4C4C4;align=left;fillColor=none;" vertex="1" parent="1">
