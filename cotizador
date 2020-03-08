@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-08T18:56:14.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="j1S7Xj4GofkMtfPfd3_V" version="12.8.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2020-03-08T20:37:35.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="jM5ekFvzuf4Ylmfco_9O" version="12.8.1" type="github" pages="2">
   <diagram id="yamxepP_VPxzLzea_HYe" name="Page-1">
     <mxGraphModel dx="1691" dy="1652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -597,7 +597,7 @@
         <mxCell id="f3tTQjQ8Tc0MLMt39N2m-13" value="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;shape=mxgraph.mockup.text.textBox;fontColor=#000000;align=left;fontSize=15;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="264" y="-594" width="70" height="25.16" as="geometry" />
         </mxCell>
-        <mxCell id="f3tTQjQ8Tc0MLMt39N2m-15" value="Información espacio de análisis&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="f3tTQjQ8Tc0MLMt39N2m-15" value="Información del espacio" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontColor=#3D3D3D;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="88" y="-648" width="303" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f3tTQjQ8Tc0MLMt39N2m-16" value="Suministro de Techo" style="shape=ellipse;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;html=1;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;shadow=0;" vertex="1" parent="1">
